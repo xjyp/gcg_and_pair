@@ -1,5 +1,5 @@
 # hydraattack_zhouzheng_test
-师兄，这个项目主要跑：run1_baseline_gcg.sh与run1_baseline_tap.sh
+这个项目主要跑：run1_baseline_gcg.sh与run1_baseline_pair.sh
 
 一、模型路径修改
 更换模型主要修改这个路径
